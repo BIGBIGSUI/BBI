@@ -1,0 +1,33 @@
+# Build output
+build/
+*.nro
+*.nacp
+*.elf
+*.nso
+*.npdm
+
+# Object files
+*.o
+*.d
+
+# Map files
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
